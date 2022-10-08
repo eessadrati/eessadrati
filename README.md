@@ -52,6 +52,9 @@
   </p>
  <h3 align="left">mobile developpement:</h3>
  <p align="left">
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+      <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+    </a>
    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
@@ -84,4 +87,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keynavas&show_icons=true&locale=en&layout=compact" alt="keynavas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keynavas&show_icons=true&locale=en" alt="keynavas" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keynavas&" alt="keynavas" /></p>
 
