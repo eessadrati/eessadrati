@@ -4,8 +4,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/essadrati_hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="essadrati_hassan" height="30" width="40" /></a>
-  <a href="https://twitter.com/hassanst11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hassanst11" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/elhassane-essadrati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elhassane-essadrati" height="30" width="40" /></a>
 
 </p>
@@ -77,16 +75,8 @@
     </a>  
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
- </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a>
-  
+ </a>  
   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keynavas&show_icons=true&locale=en&layout=compact" alt="keynavas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keynavas&show_icons=true&locale=en" alt="keynavas" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keynavas&" alt="keynavas" /></p>
 
