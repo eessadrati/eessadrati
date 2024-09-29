@@ -100,9 +100,8 @@
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
     </a>
   </p>
-  <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/eessadrati"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="eessadrati" /></a></p><br> <br><br>
-<p>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eessadrati&show_icons=true&locale=en&layout=compact" alt="eessadrati" /></p>
 
 </p>
